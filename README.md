@@ -12,3 +12,15 @@ recreated Conway's way of life game with an emphasizes on 2D arrays (landscape) 
 
 https://github.com/user-attachments/assets/2697e826-3cf4-4a2c-bb96-70fd988dd0b5
 
+# Project 2: Sudoku & Stacks
+created a program that finds the solution to a board of Sudoku if there is one. It can also create its own random board and try to solve it if no board is passed. This was
+accomplished using a backtracking algorithm with a focus on using an implemented Stack data structure. 
+
+<img width="597" alt="Screenshot 2024-10-29 at 3 39 20 PM" src="https://github.com/user-attachments/assets/4767bc49-b5d3-4f5d-bb2b-2cca153c526f">
+
+afterwards the program was explored to test its limitations and efficiency.
+
+<img width="738" alt="Screenshot 2024-10-29 at 3 42 33 PM" src="https://github.com/user-attachments/assets/b7828c9a-679c-4adb-b631-d4fd2e9659a1">
+
+
+
