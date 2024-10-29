@@ -24,9 +24,19 @@ afterwards the program was explored to test its limitations and efficiency.
 
 # Project 4: Agents & LinkedLists
 created an agent based simulation. Each agent either moves or not based on certain conditions. If they move they are displayed in a light color, if not they are
-displayed in a dark color. Each agent has a specific radius and the goal is for each agent to have at least three neighbors within its radius.
+displayed in a dark color. Each agent has a specific radius and the goal is for each agent to have at least three neighbors within its radius. A main component of this project was the implemented LinkList which was used extensively in order to keep track of the agents in the landscape and access their attributes.
 
 <img width="706" alt="Screenshot 2024-10-29 at 3 52 38 PM" src="https://github.com/user-attachments/assets/ff2e42d3-9a15-4f54-8e08-82248ee0f0a8">
+
+# Project 5: Customer & Queue
+created a simulation for 3 types of customers to analyze which method is best when choosing a checkout line. The 3 customer types were choosing a random line, looking for the smallest line, and picking the shorter line from two random lines. In order to simulate a line an implemented queue was used to keep track of customers and their items in each line.
+
+<img width="615" alt="Screenshot 2024-10-29 at 4 01 05 PM" src="https://github.com/user-attachments/assets/24962af8-71d7-4502-9aaf-96e43dbfbf3c">
+
+After some data collections and anaylsis, the data suggests that the customer with the smallest wait time is a customer that randomly chooses their checkout line.
+
+<img width="597" alt="Screenshot 2024-10-29 at 4 03 21 PM" src="https://github.com/user-attachments/assets/1c859b6b-386b-4f0d-9d09-1836026f6971">
+
 
 
 
