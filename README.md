@@ -12,7 +12,7 @@ recreated Conway's way of life game with an emphasizes on 2D arrays (landscape) 
 
 https://github.com/user-attachments/assets/2697e826-3cf4-4a2c-bb96-70fd988dd0b5
 
-# Project 2: Sudoku & Stacks
+# Project 3: Sudoku & Stacks
 created a program that finds the solution to a board of Sudoku if there is one. It can also create its own random board and try to solve it if no board is passed. This was
 accomplished using a backtracking algorithm with a focus on using an implemented Stack data structure. 
 
@@ -21,6 +21,13 @@ accomplished using a backtracking algorithm with a focus on using an implemented
 afterwards the program was explored to test its limitations and efficiency.
 
 <img width="738" alt="Screenshot 2024-10-29 at 3 42 33 PM" src="https://github.com/user-attachments/assets/b7828c9a-679c-4adb-b631-d4fd2e9659a1">
+
+# Project 4: Agents & LinkedLists
+created an agent based simulation. Each agent either moves or not based on certain conditions. If they move they are displayed in a light color, if not they are
+displayed in a dark color. Each agent has a specific radius and the goal is for each agent to have at least three neighbors within its radius.
+
+<img width="706" alt="Screenshot 2024-10-29 at 3 52 38 PM" src="https://github.com/user-attachments/assets/ff2e42d3-9a15-4f54-8e08-82248ee0f0a8">
+
 
 
 
