@@ -33,7 +33,7 @@ created a simulation for 3 types of customers to analyze which method is best wh
 
 <img width="615" alt="Screenshot 2024-10-29 at 4 01 05 PM" src="https://github.com/user-attachments/assets/24962af8-71d7-4502-9aaf-96e43dbfbf3c">
 
-After some data collections and anaylsis, the data suggests that the customer with the smallest wait time is a customer that randomly chooses their checkout line.
+After some data collections and analysis, the data suggests that the customer with the smallest wait time is a customer that randomly chooses their checkout line.
 
 <img width="597" alt="Screenshot 2024-10-29 at 4 03 21 PM" src="https://github.com/user-attachments/assets/1c859b6b-386b-4f0d-9d09-1836026f6971">
 
