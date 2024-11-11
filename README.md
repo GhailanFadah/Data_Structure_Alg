@@ -42,6 +42,12 @@ Implemented a binary search tree and used it to analyze reddit comments from 201
 
 <img width="396" alt="Screenshot 2024-11-11 at 1 21 38 PM" src="https://github.com/user-attachments/assets/02f809e5-37ac-44da-a5a5-c85a7e36994c">
 
+# Project 7: Reddit & Hashmap
+Implemented a Hashmap and compared its performance to a BST on the same reddit dataset. Performed much quicker but used much more space. Again key-value pair architecture was used.
+
+<img width="572" alt="Screenshot 2024-11-11 at 1 27 39 PM" src="https://github.com/user-attachments/assets/eb6c0358-d93d-41b5-af90-18b954b068d8">
+
+
 
 
 
