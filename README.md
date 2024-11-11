@@ -48,10 +48,15 @@ Implemented a Hashmap and compared its performance to a BST on the same reddit d
 <img width="572" alt="Screenshot 2024-11-11 at 1 27 39 PM" src="https://github.com/user-attachments/assets/eb6c0358-d93d-41b5-af90-18b954b068d8">
 
 # Project 8: Reddit & PQ
-
 Explored and implemented how a priority queue can give us best of both worlds between BST and Hasmap. Used it to see trends of certain words over time. One topic I explored was soccer and as expected "messi" was on top.
 
 <img width="553" alt="Screenshot 2024-11-11 at 1 36 22 PM" src="https://github.com/user-attachments/assets/76e50242-13ed-4363-9627-7552ac35e1af">
+
+# Project 9: Graphs & Dijkstra's Algorithm
+Implemented a graph using an adjacency list and used it to explore Dijkstra's algorithm. Also explored and implemented DFS & BFS search. 
+
+<img width="730" alt="Screenshot 2024-11-11 at 2 05 00 PM" src="https://github.com/user-attachments/assets/077fdb77-85c1-4014-a938-9cd7e01e5385">
+
 
 
 
