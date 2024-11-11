@@ -37,6 +37,12 @@ After some data collections and analysis, the data suggests that the customer wi
 
 <img width="597" alt="Screenshot 2024-10-29 at 4 03 21 PM" src="https://github.com/user-attachments/assets/1c859b6b-386b-4f0d-9d09-1836026f6971">
 
+# Project 6: Reddit & BST
+Implemented a binary search tree and used it to analyze reddit comments from 2015-2018. The key-value pair architecture was used where each unique word was a key and its value is the amount of times it appeared in the dataset. The results suggest that more unique words were used as time passed. 
+
+<img width="396" alt="Screenshot 2024-11-11 at 1 21 38 PM" src="https://github.com/user-attachments/assets/02f809e5-37ac-44da-a5a5-c85a7e36994c">
+
+
 
 
 
